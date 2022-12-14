@@ -8,7 +8,6 @@ public void a1()
 {
 	//welcome
 	System.out.println("hi");
-	//bye
 	
 }
 }
